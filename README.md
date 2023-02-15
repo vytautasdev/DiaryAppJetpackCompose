@@ -5,3 +5,4 @@ _To-Do App — A modern native Android application showcasing the basic CRUD ope
 ## Video Demonstration of Application
 
 
+<video src='DiaryApp.mp4' width=180/>
