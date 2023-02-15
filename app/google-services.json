@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "619629377967",
+    "project_id": "mydiaryappkotlin",
+    "storage_bucket": "mydiaryappkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619629377967:android:a149d900bc94f0d935d75a",
+        "android_client_info": {
+          "package_name": "com.vytautasdev.mydiaryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619629377967-bco1otme1rionu1ji6p8bollpbtp6rq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdf6a0PKWgiJkqxHJe5VFhiAjsNJLBg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619629377967-3jcb39usb7r60jaagj91o6f7edlcv9oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
